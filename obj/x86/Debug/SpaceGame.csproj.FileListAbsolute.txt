@@ -1,0 +1,15 @@
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Misc\DebugText.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Models\PlayerShipModel.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Models\AsteroidModel.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Models\PlayerProjectile.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Models\Enemy.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Misc\Particle.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Textures\Particle.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Textures\ParticleColors.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\Content\Textures\Stars.xnb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.exe
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\bin\x86\Debug\SpaceGame.pdb
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+C:\Users\Alexander\Dropbox\Daniel\masterGame\3410Game-master\SpaceGame\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
